@@ -28,18 +28,10 @@ buttonRandom.addEventListener('click', function() {
 
 });
 
-
 function myFunction() {
 
     let copy_color = document.getElementById("myInput");
-
-
     copy_color.select();
-
-
-
     navigator.clipboard.writeText(copy_color.value);
-
-
     alert("Copied the color: " + copy_color.value);
 }
