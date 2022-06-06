@@ -142,3 +142,61 @@ nav ul li a:hover {
     line-height: 15px;
     color: #E5E5E5;
 }
+
+.middle-top {
+    position: absolute;
+    width: 81px;
+    height: 46px;
+    left: 220px;
+    top: 554px;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.middle-bottom {
+    position: absolute;
+    width: 52px;
+    height: 15px;
+    left: 229px;
+    top: 599px;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #E5E5E5;
+}
+
+.right-top {
+    position: absolute;
+    width: 86px;
+    height: 46px;
+    left: 363px;
+    top: 554px;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.right-bottom {
+    position: absolute;
+    width: 39px;
+    height: 15px;
+    left: 375px;
+    top: 599px;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #E5E5E5;
+}
