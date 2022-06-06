@@ -7,7 +7,7 @@
 .hero {
     height: 100vh;
     width: 100%;
-    background-color: cadetblue;
+    background-color: #3B5971;
     background-position: center;
     background-size: cover;
     cursor: pointer;
@@ -68,6 +68,11 @@ nav ul li a:hover {
     position: relative;
 }
 
+.left-container {
+    width: 50%;
+    height: auto;
+}
+
 .left-container1 {
     position: absolute;
     width: 400px;
@@ -95,4 +100,45 @@ nav ul li a:hover {
     font-size: 13px;
     line-height: 20px;
     color: #FFFFFF;
+}
+
+.left-container3 {
+    position: absolute;
+    width: 199px;
+    height: 40px;
+    left: 60px;
+    top: 433px;
+    background: linear-gradient(85.76deg, rgba(191, 196, 238, 0.0945738) -105.02%, #C367E6 10.94%, rgba(190, 206, 239, 0) 121.57%);
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+}
+
+.left-top {
+    position: absolute;
+    width: 87px;
+    height: 46px;
+    left: 62px;
+    top: 554px;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.left-bottom {
+    position: absolute;
+    width: 53px;
+    height: 15px;
+    left: 67px;
+    top: 599px;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #E5E5E5;
 }
