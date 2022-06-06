@@ -200,3 +200,43 @@ nav ul li a:hover {
     line-height: 15px;
     color: #E5E5E5;
 }
+
+.footer {
+    background-color: #3B5971;
+}
+
+.img1 {
+    position: absolute;
+    width: 135.71px;
+    height: 50px;
+    left: 276px;
+    top: 743px;
+    background: url(/img/1.png)
+}
+
+.img2 {
+    position: absolute;
+    width: 135.71px;
+    height: 50px;
+    left: 457px;
+    top: 743px;
+    background: url(/img/2.png);
+}
+
+.img3 {
+    position: absolute;
+    width: 135.71px;
+    height: 50px;
+    left: 629px;
+    top: 743px;
+    background: url(/img/3.png);
+}
+
+.img4 {
+    position: absolute;
+    width: 135.71px;
+    height: 50px;
+    left: 825px;
+    top: 743px;
+    background: url(/img/4.png);
+}
